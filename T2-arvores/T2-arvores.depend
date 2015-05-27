@@ -32,7 +32,7 @@
 
 1416937002 c:\users\brenda\google drive\t2-arvores\arvoreavl.h
 
-1432585511 source:c:\users\brenda\google drive\t2-arvores\avl.c
+1432765720 source:c:\users\brenda\google drive\t2-arvores\avl.c
 	<stdlib.h>
 	<stdio.h>
 	<string.h>
@@ -40,7 +40,8 @@
 	<time.h>
 	"AVL.h"
 
-1432585495 c:\users\brenda\google drive\t2-arvores\avl.h
+1432765610 c:\users\brenda\google drive\t2-arvores\avl.h
+	"list.h"
 
 1431477666 source:c:\users\brenda\google drive\t2-arvores\comum_funcs.c
 
@@ -56,5 +57,5 @@
 	<string.h>
 	"list.h"
 
-1432693587 c:\users\brenda\google drive\t2-arvores\list.h
+1432765403 c:\users\brenda\google drive\t2-arvores\list.h
 

@@ -4,6 +4,7 @@
 #include <time.h>
 
 #include "binaria.h"
+//#include "list.h"
 
 Arv_bin* criaBinaria(Arv_bin* bin){
     return NULL;

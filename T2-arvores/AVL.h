@@ -1,3 +1,8 @@
+#ifndef _AVL_H_
+#define _AVL_H_
+
+#include "list.h"
+
 typedef struct avl{
    struct avl* esq;
    struct avl* dir;
@@ -21,4 +26,6 @@ void ajustarAltura(Avl* a);
 void tempoBuscaAvl(Avl* avl, char* chave);
 void insere_avl1(Lista* l, Avl* avl);
 void liberaArvoreAVL(Avl* avl);
+
+#endif
 

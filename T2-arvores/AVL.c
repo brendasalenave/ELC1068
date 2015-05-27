@@ -3,7 +3,9 @@
 #include <string.h>
 #include <stdbool.h>
 #include <time.h>
+
 #include "AVL.h"
+//#include "list.h"
 
 
 Avl* cria_no(char* chave){
@@ -179,7 +181,7 @@ void tempoBuscaAvl(Avl* avl, char* chave){
     double tempoGasto;
     tempoInicial = clock();
     for(i=0;i<100000000;i++){
-        avl = buscaArvoreBin(avl, chave);
+        avl = buscar(avl, chave);
     }
     tempoFinal = clock();
 
@@ -189,7 +191,7 @@ void tempoBuscaAvl(Avl* avl, char* chave){
 }
 
 void insere_avl1(Lista* l, Avl* avl){
-    Lista* p = lista;
+    Lista* p = l;
     if(p == NULL)
         printf("Lista vazia");
     while(p != NULL){
