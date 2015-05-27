@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1430860364 source:c:\users\brenda\documents\google drive\trabalho pod\t2-arvores\binaria.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"binaria.h"
+
+1430860465 c:\users\brenda\documents\google drive\trabalho pod\t2-arvores\binaria.h
+
+1432693879 source:c:\users\brenda\google drive\t2-arvores\binaria.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"binaria.h"
+
+1432585300 c:\users\brenda\google drive\t2-arvores\binaria.h
+
+1432585719 source:c:\users\brenda\google drive\t2-arvores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"binaria.h"
+	"AVL.h"
+
+1424222846 source:c:\users\brenda\google drive\t2-arvores\arvoreavl.c
+	<stdio.h>
+	<stdlib.h>
+	"ArvoreAVL.h"
+
+1416937002 c:\users\brenda\google drive\t2-arvores\arvoreavl.h
+
+1432585511 source:c:\users\brenda\google drive\t2-arvores\avl.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	"AVL.h"
+
+1432585495 c:\users\brenda\google drive\t2-arvores\avl.h
+
+1431477666 source:c:\users\brenda\google drive\t2-arvores\comum_funcs.c
+
+1432322557 source:c:\users\brenda\google drive\t2-arvores\teste.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"AVL.h"
+
+1432693648 source:c:\users\brenda\google drive\t2-arvores\lista_auxiliar.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"list.h"
+
+1432693587 c:\users\brenda\google drive\t2-arvores\list.h
+
